@@ -4,4 +4,4 @@ development:
   encoding: unicode
   database: first_app_development
   pool: 5
-  username: root
+  username: hon
